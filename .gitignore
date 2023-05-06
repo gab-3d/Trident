@@ -5,3 +5,5 @@
 *.bkp
 *.backup
 *.png
+/shaper/*.*
+/backup/*.*
